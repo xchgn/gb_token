@@ -1,0 +1,6 @@
+TESTNET
+PackageID: 
+0x6c51a9c2e72d4b73bfc8f78c94700c804930d62d2f83fafd72c2c0ad21db02d7
+CoinID: 
+0x6c51a9c2e72d4b73bfc8f78c94700c804930d62d2f83fafd72c2c0ad21db02d7::gb::GB
+
